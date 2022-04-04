@@ -14,6 +14,7 @@ public static boolean hyperPar (int num) {
 		return true;
 	}
 	else {
+		int x = 2344;
 		return false;
 	}
 }
